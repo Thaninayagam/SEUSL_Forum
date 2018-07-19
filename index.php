@@ -38,7 +38,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
    
     <link rel="stylesheet" href="b/css/bootstrap.min.css">
-        <script src="b/js/jquery-3.2.1.min.js"></script>
+    <script src="b/js/jquery-3.2.1.min.js"></script>
     <script src="b/js/bootstrap.min.js"></script>
     <script src="b/js/bootstrap.js"></script>
     
@@ -68,8 +68,7 @@
                     
                 
                 <img src="lgo.png"  style="margin: auto; height:200px;"  class="img-responsive" alt="" />
-                
-                   
+      
                      <h3 align="center">South Eastern University Community Login</h3>
                  
                     <form align="center" method="post">
